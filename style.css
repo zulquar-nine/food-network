@@ -1,5 +1,6 @@
 body{
     font-family: 'poppins',sans-serif;
+    margin: 5px;
 }
 .color{
     color: orange;
@@ -26,4 +27,11 @@ section{
 }
 .text{
     text-align: left;
+}
+.top-banner{
+    background-image: url(images/7.png);
+    background-repeat: no-repeat;
+}
+.text-box{
+    width: 1000px;
 }
