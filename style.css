@@ -33,5 +33,14 @@ section{
     background-repeat: no-repeat;
 }
 .text-box{
+    text-align: center;
     width: 1000px;
+}
+
+.width img{
+    width: 29.33%;
+    height: 300px;
+    float: left;
+    margin-right: 25px;
+    border-radius: 10px;
 }
