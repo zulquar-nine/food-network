@@ -11,5 +11,19 @@ section{
     width: 50%;
 }
 .half-width img{
-    width: 70%;
+    width: 50%;
+    padding-left: 2px;
+}
+
+.link-button{
+    text-decoration: none;
+    color: white;
+    background-image: linear-gradient(yellow, orangered);
+    padding: 10px 40px;
+    font-weight: 700;
+    border-radius: 10px;
+    
+}
+.text{
+    text-align: left;
 }
